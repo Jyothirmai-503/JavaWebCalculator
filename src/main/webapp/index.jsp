@@ -23,7 +23,7 @@
 <br />
 </label>
 <label>
-<input type="radio" name="r3" value="prod" />division
+<input type="radio" name="r3" value="prod" />divisions
 <br />
 </label>
 
